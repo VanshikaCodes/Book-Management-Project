@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Vanshika",
+        "age": 28,
+        "email": "ishu@gmail.com",
+        "pin": 1378,
+        "accountNo": "1234",
+        "bankBalance": 1000
+    },
+    {
+        "name": "Vanshika",
+        "age": 23,
+        "email": "ishu@hmail,com",
+        "pin": 1378,
+        "accountNo": "@3*8!8",
+        "bankBalance": 0
+    }
+]
