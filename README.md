@@ -1,2 +1,3 @@
 # Book-Management-Project
-A project that uses the concept of OOPs 
+A project that uses the concept of OOPs in Python
+## Workings
